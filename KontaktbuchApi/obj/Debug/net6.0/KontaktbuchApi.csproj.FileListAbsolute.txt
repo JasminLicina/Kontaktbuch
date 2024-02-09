@@ -1,0 +1,158 @@
+C:\Users\T.Amadasun\source\repos\KontaktbuchApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\T.Amadasun\source\repos\KontaktbuchApi\bin\Debug\net6.0\appsettings.json
+C:\Users\T.Amadasun\source\repos\KontaktbuchApi\bin\Debug\net6.0\KontaktbuchApi.exe
+C:\Users\T.Amadasun\source\repos\KontaktbuchApi\bin\Debug\net6.0\KontaktbuchApi.deps.json
+C:\Users\T.Amadasun\source\repos\KontaktbuchApi\bin\Debug\net6.0\KontaktbuchApi.runtimeconfig.json
+C:\Users\T.Amadasun\source\repos\KontaktbuchApi\bin\Debug\net6.0\KontaktbuchApi.dll
+C:\Users\T.Amadasun\source\repos\KontaktbuchApi\bin\Debug\net6.0\KontaktbuchApi.pdb
+C:\Users\T.Amadasun\source\repos\KontaktbuchApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\T.Amadasun\source\repos\KontaktbuchApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\T.Amadasun\source\repos\KontaktbuchApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\T.Amadasun\source\repos\KontaktbuchApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\T.Amadasun\source\repos\KontaktbuchApi\obj\Debug\net6.0\KontaktbuchApi.csproj.AssemblyReference.cache
+C:\Users\T.Amadasun\source\repos\KontaktbuchApi\obj\Debug\net6.0\KontaktbuchApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T.Amadasun\source\repos\KontaktbuchApi\obj\Debug\net6.0\KontaktbuchApi.AssemblyInfoInputs.cache
+C:\Users\T.Amadasun\source\repos\KontaktbuchApi\obj\Debug\net6.0\KontaktbuchApi.AssemblyInfo.cs
+C:\Users\T.Amadasun\source\repos\KontaktbuchApi\obj\Debug\net6.0\KontaktbuchApi.csproj.CoreCompileInputs.cache
+C:\Users\T.Amadasun\source\repos\KontaktbuchApi\obj\Debug\net6.0\KontaktbuchApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\T.Amadasun\source\repos\KontaktbuchApi\obj\Debug\net6.0\KontaktbuchApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\T.Amadasun\source\repos\KontaktbuchApi\obj\Debug\net6.0\staticwebassets\msbuild.KontaktbuchApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\T.Amadasun\source\repos\KontaktbuchApi\obj\Debug\net6.0\staticwebassets\msbuild.build.KontaktbuchApi.props
+C:\Users\T.Amadasun\source\repos\KontaktbuchApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.KontaktbuchApi.props
+C:\Users\T.Amadasun\source\repos\KontaktbuchApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.KontaktbuchApi.props
+C:\Users\T.Amadasun\source\repos\KontaktbuchApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\T.Amadasun\source\repos\KontaktbuchApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\T.Amadasun\source\repos\KontaktbuchApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\T.Amadasun\source\repos\KontaktbuchApi\obj\Debug\net6.0\scopedcss\bundle\KontaktbuchApi.styles.css
+C:\Users\T.Amadasun\source\repos\KontaktbuchApi\obj\Debug\net6.0\KontaktbuchApi.csproj.CopyComplete
+C:\Users\T.Amadasun\source\repos\KontaktbuchApi\obj\Debug\net6.0\KontaktbuchApi.dll
+C:\Users\T.Amadasun\source\repos\KontaktbuchApi\obj\Debug\net6.0\refint\KontaktbuchApi.dll
+C:\Users\T.Amadasun\source\repos\KontaktbuchApi\obj\Debug\net6.0\KontaktbuchApi.pdb
+C:\Users\T.Amadasun\source\repos\KontaktbuchApi\obj\Debug\net6.0\KontaktbuchApi.genruntimeconfig.cache
+C:\Users\T.Amadasun\source\repos\KontaktbuchApi\obj\Debug\net6.0\ref\KontaktbuchApi.dll
+C:\Users\licinaj\OneDrive - Medi GmbH & Co. KG\Desktop\KontaktbuchApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\licinaj\OneDrive - Medi GmbH & Co. KG\Desktop\KontaktbuchApi\bin\Debug\net6.0\appsettings.json
+C:\Users\licinaj\OneDrive - Medi GmbH & Co. KG\Desktop\KontaktbuchApi\bin\Debug\net6.0\KontaktbuchApi.exe
+C:\Users\licinaj\OneDrive - Medi GmbH & Co. KG\Desktop\KontaktbuchApi\bin\Debug\net6.0\KontaktbuchApi.deps.json
+C:\Users\licinaj\OneDrive - Medi GmbH & Co. KG\Desktop\KontaktbuchApi\bin\Debug\net6.0\KontaktbuchApi.runtimeconfig.json
+C:\Users\licinaj\OneDrive - Medi GmbH & Co. KG\Desktop\KontaktbuchApi\bin\Debug\net6.0\KontaktbuchApi.dll
+C:\Users\licinaj\OneDrive - Medi GmbH & Co. KG\Desktop\KontaktbuchApi\bin\Debug\net6.0\KontaktbuchApi.pdb
+C:\Users\licinaj\OneDrive - Medi GmbH & Co. KG\Desktop\KontaktbuchApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\licinaj\OneDrive - Medi GmbH & Co. KG\Desktop\KontaktbuchApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\licinaj\OneDrive - Medi GmbH & Co. KG\Desktop\KontaktbuchApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\licinaj\OneDrive - Medi GmbH & Co. KG\Desktop\KontaktbuchApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\licinaj\OneDrive - Medi GmbH & Co. KG\Desktop\KontaktbuchApi\obj\Debug\net6.0\KontaktbuchApi.csproj.AssemblyReference.cache
+C:\Users\licinaj\OneDrive - Medi GmbH & Co. KG\Desktop\KontaktbuchApi\obj\Debug\net6.0\KontaktbuchApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\licinaj\OneDrive - Medi GmbH & Co. KG\Desktop\KontaktbuchApi\obj\Debug\net6.0\KontaktbuchApi.AssemblyInfoInputs.cache
+C:\Users\licinaj\OneDrive - Medi GmbH & Co. KG\Desktop\KontaktbuchApi\obj\Debug\net6.0\KontaktbuchApi.AssemblyInfo.cs
+C:\Users\licinaj\OneDrive - Medi GmbH & Co. KG\Desktop\KontaktbuchApi\obj\Debug\net6.0\KontaktbuchApi.csproj.CoreCompileInputs.cache
+C:\Users\licinaj\OneDrive - Medi GmbH & Co. KG\Desktop\KontaktbuchApi\obj\Debug\net6.0\KontaktbuchApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\licinaj\OneDrive - Medi GmbH & Co. KG\Desktop\KontaktbuchApi\obj\Debug\net6.0\KontaktbuchApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\licinaj\OneDrive - Medi GmbH & Co. KG\Desktop\KontaktbuchApi\obj\Debug\net6.0\staticwebassets\msbuild.KontaktbuchApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\licinaj\OneDrive - Medi GmbH & Co. KG\Desktop\KontaktbuchApi\obj\Debug\net6.0\staticwebassets\msbuild.build.KontaktbuchApi.props
+C:\Users\licinaj\OneDrive - Medi GmbH & Co. KG\Desktop\KontaktbuchApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.KontaktbuchApi.props
+C:\Users\licinaj\OneDrive - Medi GmbH & Co. KG\Desktop\KontaktbuchApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.KontaktbuchApi.props
+C:\Users\licinaj\OneDrive - Medi GmbH & Co. KG\Desktop\KontaktbuchApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\licinaj\OneDrive - Medi GmbH & Co. KG\Desktop\KontaktbuchApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\licinaj\OneDrive - Medi GmbH & Co. KG\Desktop\KontaktbuchApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\licinaj\OneDrive - Medi GmbH & Co. KG\Desktop\KontaktbuchApi\obj\Debug\net6.0\scopedcss\bundle\KontaktbuchApi.styles.css
+C:\Users\licinaj\OneDrive - Medi GmbH & Co. KG\Desktop\KontaktbuchApi\obj\Debug\net6.0\KontaktbuchApi.csproj.CopyComplete
+C:\Users\licinaj\OneDrive - Medi GmbH & Co. KG\Desktop\KontaktbuchApi\obj\Debug\net6.0\KontaktbuchApi.dll
+C:\Users\licinaj\OneDrive - Medi GmbH & Co. KG\Desktop\KontaktbuchApi\obj\Debug\net6.0\refint\KontaktbuchApi.dll
+C:\Users\licinaj\OneDrive - Medi GmbH & Co. KG\Desktop\KontaktbuchApi\obj\Debug\net6.0\KontaktbuchApi.pdb
+C:\Users\licinaj\OneDrive - Medi GmbH & Co. KG\Desktop\KontaktbuchApi\obj\Debug\net6.0\KontaktbuchApi.genruntimeconfig.cache
+C:\Users\licinaj\OneDrive - Medi GmbH & Co. KG\Desktop\KontaktbuchApi\obj\Debug\net6.0\ref\KontaktbuchApi.dll
+C:\Users\licinaj\OneDrive - Medi GmbH & Co. KG\Desktop\Ablage\KontaktbuchApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\licinaj\OneDrive - Medi GmbH & Co. KG\Desktop\Ablage\KontaktbuchApi\bin\Debug\net6.0\appsettings.json
+C:\Users\licinaj\OneDrive - Medi GmbH & Co. KG\Desktop\Ablage\KontaktbuchApi\bin\Debug\net6.0\KontaktbuchApi.exe
+C:\Users\licinaj\OneDrive - Medi GmbH & Co. KG\Desktop\Ablage\KontaktbuchApi\bin\Debug\net6.0\KontaktbuchApi.deps.json
+C:\Users\licinaj\OneDrive - Medi GmbH & Co. KG\Desktop\Ablage\KontaktbuchApi\bin\Debug\net6.0\KontaktbuchApi.runtimeconfig.json
+C:\Users\licinaj\OneDrive - Medi GmbH & Co. KG\Desktop\Ablage\KontaktbuchApi\bin\Debug\net6.0\KontaktbuchApi.dll
+C:\Users\licinaj\OneDrive - Medi GmbH & Co. KG\Desktop\Ablage\KontaktbuchApi\bin\Debug\net6.0\KontaktbuchApi.pdb
+C:\Users\licinaj\OneDrive - Medi GmbH & Co. KG\Desktop\Ablage\KontaktbuchApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\licinaj\OneDrive - Medi GmbH & Co. KG\Desktop\Ablage\KontaktbuchApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\licinaj\OneDrive - Medi GmbH & Co. KG\Desktop\Ablage\KontaktbuchApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\licinaj\OneDrive - Medi GmbH & Co. KG\Desktop\Ablage\KontaktbuchApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\licinaj\OneDrive - Medi GmbH & Co. KG\Desktop\Ablage\KontaktbuchApi\obj\Debug\net6.0\KontaktbuchApi.csproj.AssemblyReference.cache
+C:\Users\licinaj\OneDrive - Medi GmbH & Co. KG\Desktop\Ablage\KontaktbuchApi\obj\Debug\net6.0\KontaktbuchApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\licinaj\OneDrive - Medi GmbH & Co. KG\Desktop\Ablage\KontaktbuchApi\obj\Debug\net6.0\KontaktbuchApi.AssemblyInfoInputs.cache
+C:\Users\licinaj\OneDrive - Medi GmbH & Co. KG\Desktop\Ablage\KontaktbuchApi\obj\Debug\net6.0\KontaktbuchApi.AssemblyInfo.cs
+C:\Users\licinaj\OneDrive - Medi GmbH & Co. KG\Desktop\Ablage\KontaktbuchApi\obj\Debug\net6.0\KontaktbuchApi.csproj.CoreCompileInputs.cache
+C:\Users\licinaj\OneDrive - Medi GmbH & Co. KG\Desktop\Ablage\KontaktbuchApi\obj\Debug\net6.0\KontaktbuchApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\licinaj\OneDrive - Medi GmbH & Co. KG\Desktop\Ablage\KontaktbuchApi\obj\Debug\net6.0\KontaktbuchApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\licinaj\OneDrive - Medi GmbH & Co. KG\Desktop\Ablage\KontaktbuchApi\obj\Debug\net6.0\staticwebassets\msbuild.KontaktbuchApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\licinaj\OneDrive - Medi GmbH & Co. KG\Desktop\Ablage\KontaktbuchApi\obj\Debug\net6.0\staticwebassets\msbuild.build.KontaktbuchApi.props
+C:\Users\licinaj\OneDrive - Medi GmbH & Co. KG\Desktop\Ablage\KontaktbuchApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.KontaktbuchApi.props
+C:\Users\licinaj\OneDrive - Medi GmbH & Co. KG\Desktop\Ablage\KontaktbuchApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.KontaktbuchApi.props
+C:\Users\licinaj\OneDrive - Medi GmbH & Co. KG\Desktop\Ablage\KontaktbuchApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\licinaj\OneDrive - Medi GmbH & Co. KG\Desktop\Ablage\KontaktbuchApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\licinaj\OneDrive - Medi GmbH & Co. KG\Desktop\Ablage\KontaktbuchApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\licinaj\OneDrive - Medi GmbH & Co. KG\Desktop\Ablage\KontaktbuchApi\obj\Debug\net6.0\scopedcss\bundle\KontaktbuchApi.styles.css
+C:\Users\licinaj\OneDrive - Medi GmbH & Co. KG\Desktop\Ablage\KontaktbuchApi\obj\Debug\net6.0\KontaktbuchApi.csproj.CopyComplete
+C:\Users\licinaj\OneDrive - Medi GmbH & Co. KG\Desktop\Ablage\KontaktbuchApi\obj\Debug\net6.0\KontaktbuchApi.dll
+C:\Users\licinaj\OneDrive - Medi GmbH & Co. KG\Desktop\Ablage\KontaktbuchApi\obj\Debug\net6.0\refint\KontaktbuchApi.dll
+C:\Users\licinaj\OneDrive - Medi GmbH & Co. KG\Desktop\Ablage\KontaktbuchApi\obj\Debug\net6.0\KontaktbuchApi.pdb
+C:\Users\licinaj\OneDrive - Medi GmbH & Co. KG\Desktop\Ablage\KontaktbuchApi\obj\Debug\net6.0\KontaktbuchApi.genruntimeconfig.cache
+C:\Users\licinaj\OneDrive - Medi GmbH & Co. KG\Desktop\Ablage\KontaktbuchApi\obj\Debug\net6.0\ref\KontaktbuchApi.dll
+C:\React Übungen\Frontend_KontaktBuch 1\Backend_Kontaktbuch\KontaktbuchApi\obj\Debug\net6.0\KontaktbuchApi.csproj.AssemblyReference.cache
+C:\React Übungen\Frontend_KontaktBuch 1\Backend_Kontaktbuch\KontaktbuchApi\obj\Debug\net6.0\KontaktbuchApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\React Übungen\Frontend_KontaktBuch 1\Backend_Kontaktbuch\KontaktbuchApi\obj\Debug\net6.0\KontaktbuchApi.AssemblyInfoInputs.cache
+C:\React Übungen\Frontend_KontaktBuch 1\Backend_Kontaktbuch\KontaktbuchApi\obj\Debug\net6.0\KontaktbuchApi.AssemblyInfo.cs
+C:\React Übungen\Frontend_KontaktBuch 1\Backend_Kontaktbuch\KontaktbuchApi\obj\Debug\net6.0\KontaktbuchApi.csproj.CoreCompileInputs.cache
+C:\React Übungen\Frontend_KontaktBuch 1\Backend_Kontaktbuch\KontaktbuchApi\obj\Debug\net6.0\KontaktbuchApi.MvcApplicationPartsAssemblyInfo.cs
+C:\React Übungen\Frontend_KontaktBuch 1\Backend_Kontaktbuch\KontaktbuchApi\obj\Debug\net6.0\KontaktbuchApi.MvcApplicationPartsAssemblyInfo.cache
+C:\React Übungen\Frontend_KontaktBuch 1\Backend_Kontaktbuch\KontaktbuchApi\obj\Debug\net6.0\KontaktbuchApi.dll
+C:\React Übungen\Frontend_KontaktBuch 1\Backend_Kontaktbuch\KontaktbuchApi\obj\Debug\net6.0\refint\KontaktbuchApi.dll
+C:\React Übungen\Frontend_KontaktBuch 1\Backend_Kontaktbuch\KontaktbuchApi\obj\Debug\net6.0\KontaktbuchApi.pdb
+C:\React Übungen\Kontaktbuch\Backend_Kontaktbuch\KontaktbuchApi\bin\Debug\net6.0\appsettings.Development.json
+C:\React Übungen\Kontaktbuch\Backend_Kontaktbuch\KontaktbuchApi\bin\Debug\net6.0\appsettings.json
+C:\React Übungen\Kontaktbuch\Backend_Kontaktbuch\KontaktbuchApi\bin\Debug\net6.0\KontaktbuchApi.exe
+C:\React Übungen\Kontaktbuch\Backend_Kontaktbuch\KontaktbuchApi\bin\Debug\net6.0\KontaktbuchApi.deps.json
+C:\React Übungen\Kontaktbuch\Backend_Kontaktbuch\KontaktbuchApi\bin\Debug\net6.0\KontaktbuchApi.runtimeconfig.json
+C:\React Übungen\Kontaktbuch\Backend_Kontaktbuch\KontaktbuchApi\bin\Debug\net6.0\KontaktbuchApi.dll
+C:\React Übungen\Kontaktbuch\Backend_Kontaktbuch\KontaktbuchApi\bin\Debug\net6.0\KontaktbuchApi.pdb
+C:\React Übungen\Kontaktbuch\Backend_Kontaktbuch\KontaktbuchApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\React Übungen\Kontaktbuch\Backend_Kontaktbuch\KontaktbuchApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\React Übungen\Kontaktbuch\Backend_Kontaktbuch\KontaktbuchApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\React Übungen\Kontaktbuch\Backend_Kontaktbuch\KontaktbuchApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\React Übungen\Kontaktbuch\Backend_Kontaktbuch\KontaktbuchApi\obj\Debug\net6.0\KontaktbuchApi.csproj.AssemblyReference.cache
+C:\React Übungen\Kontaktbuch\Backend_Kontaktbuch\KontaktbuchApi\obj\Debug\net6.0\KontaktbuchApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\React Übungen\Kontaktbuch\Backend_Kontaktbuch\KontaktbuchApi\obj\Debug\net6.0\KontaktbuchApi.AssemblyInfoInputs.cache
+C:\React Übungen\Kontaktbuch\Backend_Kontaktbuch\KontaktbuchApi\obj\Debug\net6.0\KontaktbuchApi.AssemblyInfo.cs
+C:\React Übungen\Kontaktbuch\Backend_Kontaktbuch\KontaktbuchApi\obj\Debug\net6.0\KontaktbuchApi.csproj.CoreCompileInputs.cache
+C:\React Übungen\Kontaktbuch\Backend_Kontaktbuch\KontaktbuchApi\obj\Debug\net6.0\KontaktbuchApi.MvcApplicationPartsAssemblyInfo.cs
+C:\React Übungen\Kontaktbuch\Backend_Kontaktbuch\KontaktbuchApi\obj\Debug\net6.0\KontaktbuchApi.MvcApplicationPartsAssemblyInfo.cache
+C:\React Übungen\Kontaktbuch\Backend_Kontaktbuch\KontaktbuchApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\React Übungen\Kontaktbuch\Backend_Kontaktbuch\KontaktbuchApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\React Übungen\Kontaktbuch\Backend_Kontaktbuch\KontaktbuchApi\obj\Debug\net6.0\staticwebassets\msbuild.KontaktbuchApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\React Übungen\Kontaktbuch\Backend_Kontaktbuch\KontaktbuchApi\obj\Debug\net6.0\staticwebassets\msbuild.build.KontaktbuchApi.props
+C:\React Übungen\Kontaktbuch\Backend_Kontaktbuch\KontaktbuchApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.KontaktbuchApi.props
+C:\React Übungen\Kontaktbuch\Backend_Kontaktbuch\KontaktbuchApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.KontaktbuchApi.props
+C:\React Übungen\Kontaktbuch\Backend_Kontaktbuch\KontaktbuchApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\React Übungen\Kontaktbuch\Backend_Kontaktbuch\KontaktbuchApi\obj\Debug\net6.0\scopedcss\bundle\KontaktbuchApi.styles.css
+C:\React Übungen\Kontaktbuch\Backend_Kontaktbuch\KontaktbuchApi\obj\Debug\net6.0\KontaktbuchApi.csproj.CopyComplete
+C:\React Übungen\Kontaktbuch\Backend_Kontaktbuch\KontaktbuchApi\obj\Debug\net6.0\KontaktbuchApi.dll
+C:\React Übungen\Kontaktbuch\Backend_Kontaktbuch\KontaktbuchApi\obj\Debug\net6.0\refint\KontaktbuchApi.dll
+C:\React Übungen\Kontaktbuch\Backend_Kontaktbuch\KontaktbuchApi\obj\Debug\net6.0\KontaktbuchApi.pdb
+C:\React Übungen\Kontaktbuch\Backend_Kontaktbuch\KontaktbuchApi\obj\Debug\net6.0\KontaktbuchApi.genruntimeconfig.cache
+C:\React Übungen\Kontaktbuch\Backend_Kontaktbuch\KontaktbuchApi\obj\Debug\net6.0\ref\KontaktbuchApi.dll
+C:\React Übungen\Kontaktbuch\Backend_Kontaktbuch\KontaktbuchApi\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\React Übungen\Kontaktbuch\Backend_Kontaktbuch\KontaktbuchApi\bin\Debug\net6.0\EntityFramework.dll
+C:\React Übungen\Kontaktbuch\Backend_Kontaktbuch\KontaktbuchApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\React Übungen\Kontaktbuch\Backend_Kontaktbuch\KontaktbuchApi\bin\Debug\net6.0\System.CodeDom.dll
+C:\React Übungen\Kontaktbuch\Backend_Kontaktbuch\KontaktbuchApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\React Übungen\Kontaktbuch\Backend_Kontaktbuch\KontaktbuchApi\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\React Übungen\Kontaktbuch\Backend_Kontaktbuch\KontaktbuchApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\React Übungen\Kontaktbuch\Backend_Kontaktbuch\KontaktbuchApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\React Übungen\Kontaktbuch\Backend_Kontaktbuch\KontaktbuchApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\React Übungen\Kontaktbuch\Backend_Kontaktbuch\KontaktbuchApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\React Übungen\Kontaktbuch\Backend_Kontaktbuch\KontaktbuchApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\React Übungen\Kontaktbuch\Backend_Kontaktbuch\KontaktbuchApi\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\React Übungen\Kontaktbuch\Backend_Kontaktbuch\KontaktbuchApi\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\React Übungen\Kontaktbuch\Backend_Kontaktbuch\KontaktbuchApi\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\React Übungen\Kontaktbuch\Backend_Kontaktbuch\KontaktbuchApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\React Übungen\Kontaktbuch\Backend_Kontaktbuch\KontaktbuchApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\React Übungen\Kontaktbuch\Backend_Kontaktbuch\KontaktbuchApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\React Übungen\Kontaktbuch\Backend_Kontaktbuch\KontaktbuchApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\React Übungen\Kontaktbuch\Backend_Kontaktbuch\KontaktbuchApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\React Übungen\Kontaktbuch\Backend_Kontaktbuch\KontaktbuchApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
