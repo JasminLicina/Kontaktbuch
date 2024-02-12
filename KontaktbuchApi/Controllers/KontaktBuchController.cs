@@ -1,6 +1,7 @@
 using KontaktbuchApi.Model;
 using Microsoft.AspNetCore.Authentication.OAuth.Claims;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.RazorPages;
 using System;
 using System.Data;
 using System.Data.Entity;
@@ -59,32 +60,64 @@ namespace KontaktbuchApi.Controllers
 
 
         [HttpPost("addcontact2")]
-        public List<Contacts> Add(ContactCollection contact)
+        public void Add(ContactCollection contact)
         {
-            var d = new List<Contacts>();
-            d = contact.ContactList;
-            d.Add(contact.Contact);
-            return d;
+
+            databaseConnection.Open();
+
+            string query = "Insert into Kontaktbuch values (@FirstName, @LastName, @PhoneNumber, @Age)";
+            SqlCommand cmd = new SqlCommand(query, databaseConnection);
+            cmd.Parameters.AddWithValue("@Id", Convert.ToString(contact.Contact.Id));
+            cmd.Parameters.AddWithValue("@FirstName", Convert.ToString(contact.Contact.FirstName));
+            cmd.Parameters.AddWithValue("@LastName", Convert.ToString(contact.Contact.LastName));
+            cmd.Parameters.AddWithValue("@PhoneNumber", Convert.ToString(contact.Contact.PhoneNumber));
+            cmd.Parameters.AddWithValue("@Age", Convert.ToString(contact.Contact.Age));
+            cmd.ExecuteNonQuery();
+
+            databaseConnection.Close();
+
+            Get();
+
+            //var d = new List<Contacts>();
+            //d = contact.ContactList;
+            //d.Add(contact.Contact);
+            //return d;
         }
 
 
         [HttpPost("edit")]
-        public List<Contacts> EditContacts(ContactCollection contact)
+        public void EditContacts(ContactCollection contact)
         {
-            var newContactList = new List<Contacts>();
+            databaseConnection.Open();
 
-            foreach (var contactItem in contact.ContactList)
-            {
-                if (contactItem.Id == contact.Contact.Id)
-                {
-                    newContactList.Add(contact.Contact);
-                }
-                else
-                {
-                    newContactList.Add(contactItem);
-                }
-            }
-            return newContactList;
+            string query = "Update Kontaktbuch FirstName=@FirstName, LastName=@LastName, PhoneNumber=@PhoneNumber, Age=@Age where Id=@Id)";
+            SqlCommand cmd = new SqlCommand(query, databaseConnection);
+            cmd.Parameters.AddWithValue("@Id", Convert.ToString(contact.Contact.Id));
+            cmd.Parameters.AddWithValue("@FirstName", Convert.ToString(contact.Contact.FirstName));
+            cmd.Parameters.AddWithValue("@LastName", Convert.ToString(contact.Contact.LastName));
+            cmd.Parameters.AddWithValue("@PhoneNumber", Convert.ToString(contact.Contact.PhoneNumber));
+            cmd.Parameters.AddWithValue("@Age", Convert.ToString(contact.Contact.Age));
+            cmd.ExecuteNonQuery();
+
+            databaseConnection.Close();
+
+            Get();
+
+
+            //var newContactList = new List<Contacts>();
+
+            //foreach (var contactItem in contact.ContactList)
+            //{
+            //    if (contactItem.Id == contact.Contact.Id)
+            //    {
+            //        newContactList.Add(contact.Contact);
+            //    }
+            //    else
+            //    {
+            //        newContactList.Add(contactItem);
+            //    }
+            //}
+            //return newContactList;
 
         }
 
@@ -95,30 +128,16 @@ namespace KontaktbuchApi.Controllers
         {
             databaseConnection.Open();
 
-            string query = "Select * from Kontaktbuch";
-            SqlDataAdapter sqlDataAdapter = new SqlDataAdapter(query, databaseConnection);
-
-            DataSet dataSet = new DataSet();
-            sqlDataAdapter.Fill(dataSet);
-
-
-            foreach (DataRow element in dataSet.Tables[0].Rows)
-
-            {
-                if (Convert.ToInt32(element["Id"]) == contact.Contact.Id)
-                {
-
-                }
-            }
+            string query = "Delete from Kontaktbuch where Id=@Id";
+            SqlCommand cmd = new SqlCommand(query, databaseConnection);
+            cmd.Parameters.AddWithValue("@Id", Convert.ToString(contact.Contact.Id));
+            cmd.ExecuteNonQuery(); 
 
             databaseConnection.Close();
 
 
             Get();
         }
-
-
-
         //public List<Contacts> removeContacts(ContactCollection contact)
         //{
 
